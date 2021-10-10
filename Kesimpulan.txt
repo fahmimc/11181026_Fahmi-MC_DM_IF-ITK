@@ -1,0 +1,4 @@
+Kesimpulan
+- Klasifikasi dilakukan dengan 2 metode dengan data set yang sama.
+- Metode SVM didapatkan akurasi sebesar 0,97 (97%).
+- Metode Decision Tree didapatkan akurasi sebesar 0,97 (97%).
